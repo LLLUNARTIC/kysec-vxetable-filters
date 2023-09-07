@@ -1,0 +1,23 @@
+{
+  "name": "@kysec/vxetable-filter",
+  "version": "1.0.2",
+  "description": "vxetable filter components",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLLUNARTIC/kysec-vxetable-filters.git"
+  },
+  "author": "LUNARTIC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLLUNARTIC/kysec-vxetable-filters/issues"
+  },
+  "homepage": "https://github.com/LLLUNARTIC/kysec-vxetable-filters#readme",
+  "dependencies": {
+    "vue": "2.6.10",
+    "xe-utils": "3.5.4"
+  }
+}
